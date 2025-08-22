@@ -32,10 +32,10 @@
 
             display-name = "Base";
             bindings = <
-&mo 1     &kp Q  &kp D  &kp R      &kp W    &kp B        &kp J      &kp F            &kp U         &kp P    &kp P         &mo 4
-&mo 2     &kp A  &kp S  &kp H      &kp T    &kp G        &kp Y      &kp N            &kp E         &kp O    &kp I         &kp SQT
-&kp LCMD  &kp Z  &kp X  &kp M      &kp C    &kp V        &kp K      &kp L            &kp COMMA     &kp DOT  &kp QUESTION  &kp BACKSPACE
-                        &kp LCTRL  &kp TAB  &kp SPACE    &lt 3 RET  &kp RIGHT_SHIFT  &kp LEFT_ALT
+&mo 1      &kp Q  &kp D  &kp R     &kp W    &kp B        &kp J      &kp F            &kp U          &kp P    &kp P         &mo 4
+&mo 2      &kp A  &kp S  &kp H     &kp T    &kp G        &kp Y      &kp N            &kp E          &kp O    &kp I         &kp SQT
+&kp LCTRL  &kp Z  &kp X  &kp M     &kp C    &kp V        &kp K      &kp L            &kp COMMA      &kp DOT  &kp QUESTION  &kp LEFT_ALT
+                         &kp LCMD  &kp TAB  &kp SPACE    &lt 3 RET  &kp RIGHT_SHIFT  &kp BACKSPACE
             >;
         };
 
