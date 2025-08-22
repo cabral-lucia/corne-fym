@@ -48,10 +48,10 @@
 
             display-name = "Symbols";
             bindings = <
-&kp TAB    &kp EXCL  &kp AT  &kp HASH  &kp DLLR       &kp PRCNT           &kp KP_MULTIPLY  &kp AMPS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SLASH  &kp TILDE
-&kp LCTRL  &trans    &trans  &trans    &kp LESS_THAN  &kp GREATER_THAN    &kp PLUS         &kp EQUAL  &kp LBKT              &kp RBKT               &kp BSLH   &kp GRAVE
-&kp LSHFT  &trans    &trans  &trans    &trans         &trans              &kp MINUS        &kp UNDER  &kp LBRC              &kp RBRC               &kp PIPE   &trans
-                             &trans    &trans         &trans              &trans           &trans     &trans
+&kp TAB    &kp EXCL       &kp AT  &kp HASH  &kp DLLR       &kp PRCNT           &kp KP_MULTIPLY  &kp AMPS   &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SLASH  &kp TILDE
+&kp LCTRL  &kp COLON      &trans  &trans    &kp LESS_THAN  &kp GREATER_THAN    &kp PLUS         &kp EQUAL  &kp LBKT              &kp RBKT               &kp BSLH   &kp GRAVE
+&kp LSHFT  &kp SEMICOLON  &trans  &trans    &trans         &trans              &kp MINUS        &kp UNDER  &kp LBRC              &kp RBRC               &kp PIPE   &trans
+                                  &trans    &trans         &trans              &trans           &trans     &trans
             >;
         };
 
